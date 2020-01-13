@@ -1,0 +1,10 @@
+database:
+  user: postgres
+  password: postgres
+  net: tcp
+  addr: 127.0.0.1:5432
+  dbname: topsecret
+  ssl: disable
+
+server:
+  address: 8080

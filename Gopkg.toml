@@ -22,5 +22,17 @@
 
 
 [[constraint]]
-  name = "github.com/gin-gonic/gin"
-  version = "1.5.0"
+  name = "github.com/davecgh/go-spew"
+  version = "1.1.1"
+
+[[constraint]]
+  name = "github.com/jinzhu/gorm"
+  version = "1.9.12"
+
+[[constraint]]
+  name = "github.com/labstack/echo"
+  version = "4.1.13"
+
+[[constraint]]
+  name = "github.com/spf13/viper"
+  version = "1.6.1"
